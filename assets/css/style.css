@@ -514,7 +514,7 @@ h6 {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 930px) {
   #hero {
     height: auto;
   }
@@ -906,7 +906,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
-  margin-top: 20px;
+  margin-top: 25px;
   position: relative;
 }
 
