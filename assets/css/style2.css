@@ -78,8 +78,6 @@ h6 {
   font-weight: 600;
   /* opacity: 0; */
   transition: all 0.5s ease;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 .sidebar.open .logo-details .icon,
